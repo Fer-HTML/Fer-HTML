@@ -10,7 +10,7 @@ The little and the biggest things!
 🌱 I’m currently learning ...
 
 - The basics of HTML, CSS and JavaScript
-- Java
+- J̶a̶v̶a (Fuck Java, long live, python)
 
 💞️ I’m looking to collaborate on ...
 
